@@ -1,0 +1,11 @@
+ros-indigo-remote-manipulation-markers (1.0.0-0saucy) saucy; urgency=high
+
+  * Moved meshes into package to remove dependency on robotiq_85_description
+  * travis integration
+  * interactive marker servers for the free positioning, constrained positioning, and point-and-click approaches
+  * Initial commit
+  * Contributors: David Kent
+
+ -- David Kent <dekent@gatech.edu>  Wed, 11 Jan 2017 05:00:00 -0000
+
+
